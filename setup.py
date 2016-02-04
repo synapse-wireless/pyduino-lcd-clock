@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='pyduinolcdclock',
-    description="LCD shield library for the Synapse Pyduino development board",
+    description="LCD-based clock project using the Synapse Pyduino development board",
     maintainer='Tyler Crumpton',
     maintainer_email='tyler.crumpton@synapse-wireless.com',
     url='https://github.com/synapse-wireless/pyduino-lcd-clock',
